@@ -165,7 +165,7 @@ h1 {
 
 
 footer, header {
-    background-color: pink;
+    background-color: white;
     height: 100px;
 }
 
@@ -173,4 +173,14 @@ footer, header {
 footer p {
     margin: 30px;
     padding-top: 20px;
+}
+
+.nikakoy{
+    font-family: name--sites-default-files-2021-09-gotham_blackitalic-otf;
+    text-align: center ;
+}
+
+.razlome {
+    display: flex;
+    margin-left: 45%;
 }
